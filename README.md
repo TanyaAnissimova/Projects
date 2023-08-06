@@ -29,9 +29,9 @@
 Ссылка на  [Декомпазицию](https://github.com/TanyaAnissimova/Projects/tree/afbff078f4141532eee7954ecaa8d8539701cd89/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%201/%D0%94%D0%B5%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8F) продукта.
 ### 3.График тестирования
 * [smoke-тестирование](https://github.com/TanyaAnissimova/Projects/tree/93b8e48bab7fe1a5fa33705855ef8a10a742d67a/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%201/Smoke%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)	- 21.03.2023
-* функциональное тестирование	- 21.03.2023
-* [приемочное тестирование](https://github.com/TanyaAnissimova/Projects/tree/121251438d2824c0646c10c3437838f9d18a3528/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%201/%D0%9F%D1%80%D0%B8%D0%B5%D0%BC%D0%BE%D1%87%D0%BD%D0%BE%D0%B5%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)	- 21.03.2023\
-* 
+* [функциональное тестирование](https://github.com/TanyaAnissimova/Projects/tree/3a44405ef0d33d603d1cff8559c942927597f6c5/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%201/%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)	- 21.03.2023
+* [приемочное тестирование](https://github.com/TanyaAnissimova/Projects/tree/121251438d2824c0646c10c3437838f9d18a3528/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%201/%D0%9F%D1%80%D0%B8%D0%B5%D0%BC%D0%BE%D1%87%D0%BD%D0%BE%D0%B5%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)	- 21.03.2023
+  Вовремя проведения функционального тестирования, был обнаружен баг, ссылка на [баг-репорт]
 
 
 
